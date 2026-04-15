@@ -1,5 +1,5 @@
 # My presets for Easy Effects
-The intent of thess preset is to maintain consistent volume across varied sources. This reduces the need to manually change output volume, helps with understanding speech, and reduces the risk of ear damage.
+The intent of these presets is to maintain consistent volume across varied sources. This reduces the need to manually change output volume, helps with understanding speech, and reduces the risk of ear damage.
 
 ## Device presets
 * base.json is a device-agnostic implementation of only autogain, compression, and limiter.
