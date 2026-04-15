@@ -4,4 +4,4 @@ The intent of these presets is to maintain consistent volume across varied sourc
 ## Device presets
 * base.json is a device-agnostic implementation of only autogain, compression, and limiter.
 * BX8.json adds a low shelf cut filter at 30hz, the low frequency response rating of the M-Audio BX8.
-* FW12.json add a low shelf cut and a parametric EQ tuned to make Framework 12 speakers sound less tinny.
+* FW12.json adds a low shelf cut and a parametric EQ tuned to make Framework 12 speakers sound less tinny.
